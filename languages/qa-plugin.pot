@@ -1,0 +1,326 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Q&A\n"
+"POT-Creation-Date: 2016-02-27 21:49+0300\n"
+"PO-Revision-Date: 2016-02-27 21:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: qa-plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: qa-plugin.php:29
+msgid "Please, set setting for this plugin."
+msgstr ""
+
+#: qa-plugin.php:39
+msgid "Settings"
+msgstr ""
+
+#: qa-plugin.php:46 qa-plugin.php:47 qa-plugin.php:59 qa-plugin.php:371
+msgid "Q&A"
+msgstr ""
+
+#: qa-plugin.php:48 qa-plugin.php:51
+msgid "New Q&A"
+msgstr ""
+
+#: qa-plugin.php:49
+msgid "Add new Q&A"
+msgstr ""
+
+#: qa-plugin.php:50
+msgid "Edit Q&A"
+msgstr ""
+
+#: qa-plugin.php:52
+msgid "View Q&A"
+msgstr ""
+
+#: qa-plugin.php:53
+msgid "Search Q&A"
+msgstr ""
+
+#: qa-plugin.php:54
+msgid "No Q&A found"
+msgstr ""
+
+#: qa-plugin.php:55
+msgid "No Q&A found in Trash"
+msgstr ""
+
+#: qa-plugin.php:79 qa-plugin.php:89
+msgid "Q&A Tags"
+msgstr ""
+
+#: qa-plugin.php:80
+msgid "Q&A Tag"
+msgstr ""
+
+#: qa-plugin.php:81
+msgid "Search Q&A Tags"
+msgstr ""
+
+#: qa-plugin.php:82
+msgid "All Q&A Tags"
+msgstr ""
+
+#: qa-plugin.php:83
+msgid "Parent Q&A Tag"
+msgstr ""
+
+#: qa-plugin.php:84
+msgid "Parent Q&A Tag:"
+msgstr ""
+
+#: qa-plugin.php:85
+msgid "Edit Q&A Tag"
+msgstr ""
+
+#: qa-plugin.php:86
+msgid "Update Q&A Tag"
+msgstr ""
+
+#: qa-plugin.php:87
+msgid "Add New Q&A Tag"
+msgstr ""
+
+#: qa-plugin.php:88
+msgid "New Q&A Tag Name"
+msgstr ""
+
+#: qa-plugin.php:108
+msgid "your question here"
+msgstr ""
+
+#: qa-plugin.php:150 qa-plugin.php:185
+msgid "<b>Success!</b> Q&A is now ready for approval."
+msgstr ""
+
+#: qa-plugin.php:165 qa-plugin.php:200
+msgid "New Q&A Received"
+msgstr ""
+
+#: qa-plugin.php:173
+msgid "<b>Error!</b> The Captcha was wrong."
+msgstr ""
+
+#: qa-plugin.php:208
+msgid "<b>Error!</b> You have to fill out the Captcha."
+msgstr ""
+
+#: qa-plugin.php:213
+msgid "<b>Error!</b> You have to fill out the Question."
+msgstr ""
+
+#: qa-plugin.php:222
+msgid "All"
+msgstr ""
+
+#: qa-plugin.php:230
+msgid "Question to ask"
+msgstr ""
+
+#: qa-plugin.php:246
+msgid "Submit"
+msgstr ""
+
+#: qa-plugin.php:264
+msgid "Name"
+msgstr ""
+
+#: qa-plugin.php:268 qa-plugin.php:375
+msgid "Email"
+msgstr ""
+
+#: qa-plugin.php:270
+msgid ""
+"If you provide an Email you will receive a message, once your Question is "
+"Answered."
+msgstr ""
+
+#: qa-plugin.php:322
+msgid "Anonymous"
+msgstr ""
+
+#: qa-plugin.php:370
+msgid "Date"
+msgstr ""
+
+#: qa-plugin.php:372
+msgid "Answer"
+msgstr ""
+
+#: qa-plugin.php:373
+msgid "Username"
+msgstr ""
+
+#: qa-plugin.php:374
+msgid "ip"
+msgstr ""
+
+#: qa-plugin.php:418
+msgid "Name and Email"
+msgstr ""
+
+#: qa-plugin.php:427
+msgid "Username: "
+msgstr ""
+
+#: qa-plugin.php:428
+msgid "IP: "
+msgstr ""
+
+#: qa-plugin.php:429
+msgid "E-mail: "
+msgstr ""
+
+#: qa-plugin.php:465
+msgid "First"
+msgstr ""
+
+#: qa-plugin.php:471
+msgid "Last"
+msgstr ""
+
+#: qa-plugin.php:478
+msgid "Q&A - Overview"
+msgstr ""
+
+#: qa-plugin.php:490
+msgid "published"
+msgstr ""
+
+#: qa-plugin.php:500
+msgid "open"
+msgstr ""
+
+#: qa-plugin.php:513 qa-plugin.php:619
+msgid "E-Mail Alert on new Q&A"
+msgstr ""
+
+#: qa-plugin.php:522 qa-plugin.php:625
+msgid "Default e-mail"
+msgstr ""
+
+#: qa-plugin.php:531 qa-plugin.php:632
+msgid "Default answer"
+msgstr ""
+
+#: qa-plugin.php:540 qa-plugin.php:639
+msgid "User Fields"
+msgstr ""
+
+#: qa-plugin.php:549 qa-plugin.php:645
+msgid "Show Captcha"
+msgstr ""
+
+#: qa-plugin.php:558 qa-plugin.php:658
+msgid "Captcha Public Key"
+msgstr ""
+
+#: qa-plugin.php:567 qa-plugin.php:651
+msgid "Captcha Private Key"
+msgstr ""
+
+#: qa-plugin.php:576 qa-plugin.php:665
+msgid "Number of Q&A"
+msgstr ""
+
+#: qa-plugin.php:585 qa-plugin.php:672
+msgid "Color background open Q&A"
+msgstr ""
+
+#: qa-plugin.php:594 qa-plugin.php:679
+msgid "Color background close Q&A"
+msgstr ""
+
+#: qa-plugin.php:604
+msgid "Q&A Settings"
+msgstr ""
+
+#: qa-plugin.php:612
+msgid "Setting for Q&A plugin"
+msgstr ""
+
+#: qa-plugin.php:613
+msgid "Configure your Q&A"
+msgstr ""
+
+#: qa-plugin.php:628
+msgid ""
+"Enter the default e-mail. If not entered, it is sent to the administrator."
+msgstr ""
+
+#: qa-plugin.php:635
+msgid ""
+"Enter the default answer. It shows if the question is published unanswered."
+msgstr ""
+
+#: qa-plugin.php:641
+msgid ""
+"Would you like to display User Fields, like E-Mail and Username? This would "
+"give your users the possibility to receive a Notification if an Answer is "
+"answered."
+msgstr ""
+
+#: qa-plugin.php:654 qa-plugin.php:661
+msgid ""
+"Get a key from <a href=\"https://www.google.com/recaptcha/admin/create\" "
+"target=\"_blank\">https://www.google.com/recaptcha/admin/create</a>"
+msgstr ""
+
+#: qa-plugin.php:668
+msgid "How much questions you want to display on one page."
+msgstr ""
+
+#: qa-plugin.php:675
+msgid "Set color background open tab Q&A."
+msgstr ""
+
+#: qa-plugin.php:682
+msgid "Set color background close tab Q&A."
+msgstr ""
+
+#: qa-plugin.php:689
+msgid "Save setting"
+msgstr ""
+
+#: qa-plugin.php:726
+msgid " - Q&A - Answer Received"
+msgstr ""
+
+#: qa-plugin.php:726
+msgid "Your Q&A has been Answered!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Q&A"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wp.starcoms.ru/qa-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple Plugin to let your users ask questions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Evgeniy Kutsenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://starcoms.ru"
+msgstr ""
